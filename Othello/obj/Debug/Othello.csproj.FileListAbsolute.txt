@@ -1,0 +1,12 @@
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\ikejun\RiderProjects\AtCoder_Beginner_Contest\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\ikejun\RiderProjects\School\Othello\Othello\obj\Debug\Othello.pdb
