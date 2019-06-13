@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd0d450c-ad55-4d20-8987-8123a4b59d13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Othello/MainProgram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/MainProgram.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Othello/Process.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/Process.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Othello/bin/Debug/Othello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/bin/Debug/Othello.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Othello/bin/Debug/Othello.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/bin/Debug/Othello.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Othello/obj/Debug/Othello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/obj/Debug/Othello.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Othello/obj/Debug/Othello.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Othello/obj/Debug/Othello.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2086964394">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3182" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3182" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="287019144">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="11151" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="11151" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Othello/MainProgram.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding>
+                <marker date="1547651985015" expanded="true" signature="32:2930" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="62:2928" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="250:2925" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="352:423" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="950:1185" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="1257:2921" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="1560:1637" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="1646:2123" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="1748:2041" ph="{...}" />
+                <marker date="1547651985015" expanded="true" signature="2416:2695" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Othello/Process.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="82" column="83" selection-start-line="82" selection-start-column="83" selection-end-line="82" selection-end-column="83" />
+              <folding>
+                <marker date="1547652176158" expanded="true" signature="32:11331" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="57:11329" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="137:2896" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="414:2326" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="485:2321" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="577:698" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="1143:2309" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="1409:1686" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="1959:2213" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="2334:2431" ph="/* 最高の評価値のマスの行、列を探索する処理 ... */" />
+                <marker date="1547652176158" expanded="true" signature="2567:2818" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="2638:2813" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="2690:2807" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="2988:3961" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4044:4815" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4242:4448" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4309:4443" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4517:4618" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4654:4755" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="4903:5034" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="5146:6165" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="6311:7070" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="6474:6625" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="6792:7045" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="6863:7040" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="6916:7034" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="7205:7478" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="7363:7441" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="7574:8316" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="7654:7722" ph="/* 8方向のうち一箇所でもひっくり返せればこの場所に打てる ... */" />
+                <marker date="1547652176158" expanded="true" signature="8439:9185" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="8973:9135" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="9294:9531" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="9423:9509" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="9593:9924" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="9704:9920" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="10017:10398" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="10519:10974" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="11042:11326" ph="{...}" />
+                <marker date="1547652176158" expanded="true" signature="11175:11299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Othello/MainProgram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Othello/Process.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/Unity/UFO キャッチャー/Assets/Game/Script/MoveandRoll.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Othello/Program.cs" />
+        <option value="$PROJECT_DIR$/Othello/MainProgram.cs" />
+        <option value="$PROJECT_DIR$/Othello/Process.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Othello" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Othello" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Othello" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Othello/bin/Debug/Othello.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Othello/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Othello/Othello.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd0d450c-ad55-4d20-8987-8123a4b59d13" name="Default Changelist" comment="" />
+      <created>1544583324853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544583324853</updated>
+      <workItem from="1544583326150" duration="5222000" />
+      <workItem from="1544668581819" duration="5811000" />
+      <workItem from="1545032461986" duration="4250000" />
+      <workItem from="1545111277468" duration="11000" />
+      <workItem from="1545111504861" duration="22000" />
+      <workItem from="1545111563723" duration="6000" />
+      <workItem from="1545185543364" duration="8225000" />
+      <workItem from="1546774451804" duration="1590000" />
+      <workItem from="1546776081931" duration="268000" />
+      <workItem from="1546776382108" duration="44000" />
+      <workItem from="1546776460380" duration="31591000" />
+      <workItem from="1547460374593" duration="9441000" />
+      <workItem from="1547526053699" duration="3712000" />
+      <workItem from="1547536840378" duration="16400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92095000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09488273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56507593" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.092750534" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4186551" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/Unity/UFO キャッチャー/Assets/Game/Script/MoveandRoll.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Othello/Process.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="82" column="83" selection-start-line="82" selection-start-column="83" selection-end-line="82" selection-end-column="83" />
+          <folding>
+            <marker date="1547652176158" expanded="true" signature="32:11331" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="57:11329" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="137:2896" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="414:2326" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="485:2321" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="577:698" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="1143:2309" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="1409:1686" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="1959:2213" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="2334:2431" ph="/* 最高の評価値のマスの行、列を探索する処理 ... */" />
+            <marker date="1547652176158" expanded="true" signature="2567:2818" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="2638:2813" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="2690:2807" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="2988:3961" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4044:4815" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4242:4448" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4309:4443" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4517:4618" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4654:4755" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="4903:5034" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="5146:6165" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="6311:7070" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="6474:6625" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="6792:7045" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="6863:7040" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="6916:7034" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="7205:7478" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="7363:7441" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="7574:8316" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="7654:7722" ph="/* 8方向のうち一箇所でもひっくり返せればこの場所に打てる ... */" />
+            <marker date="1547652176158" expanded="true" signature="8439:9185" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="8973:9135" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="9294:9531" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="9423:9509" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="9593:9924" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="9704:9920" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="10017:10398" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="10519:10974" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="11042:11326" ph="{...}" />
+            <marker date="1547652176158" expanded="true" signature="11175:11299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Othello/MainProgram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <marker date="1547651985015" expanded="true" signature="32:2930" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="62:2928" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="250:2925" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="352:423" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="950:1185" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="1257:2921" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="1560:1637" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="1646:2123" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="1748:2041" ph="{...}" />
+            <marker date="1547651985015" expanded="true" signature="2416:2695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
